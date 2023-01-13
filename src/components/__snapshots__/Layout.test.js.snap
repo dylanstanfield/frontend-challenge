@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Layout should match snapshot 1`] = `
+<div>
+  <div
+    class="css-14c4e9i"
+  >
+    <div
+      class="css-nhrhr0"
+    >
+      <p
+        class="MuiTypography-root MuiTypography-body1 css-ixu74u-MuiTypography-root"
+      >
+        ● Upgrade Challenge
+      </p>
+      <div
+        class="css-150avzy"
+      >
+        Hello World
+      </div>
+      <span
+        class="MuiTypography-root MuiTypography-caption css-1sn4lm3-MuiTypography-root"
+      >
+        © Upgrade Challenge 2023
+      </span>
+    </div>
+    <div
+      class="css-zkjdrj"
+    >
+      <div
+        class="css-1o8t0e3"
+      />
+    </div>
+  </div>
+</div>
+`;
